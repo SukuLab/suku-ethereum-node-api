@@ -1,0 +1,20 @@
+# Dev environment
+dev-env.sh
+
+# Node Modules
+node_modules/
+
+# Log
+log/
+
+# Dist
+dist/
+
+# JS Mapping files
+*.js.map
+
+# Misc
+.DS_Store
+
+.nyc_output/
+coverage/
