@@ -1,4 +1,7 @@
 # SUKU - Ethereum Node API
+
+![NPM Build](https://github.com/SukuLab/suku-ethereum-node-api/workflows/NPM%20Build/badge.svg)
+
 This is the SUKU Ethereum Node API, a NodeJS REST API that can be used to abstract access to Ethereum based blockchain nodes such as Geth, Quorum Geth, Ganache, etc.
 
 Use this package to deploy a REST API that you can use to send transactions, deploy smart contracts, call smart contract functions, and manage Node Accounts.
